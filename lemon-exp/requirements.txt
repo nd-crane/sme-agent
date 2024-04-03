@@ -1,6 +1,0 @@
-nltk
-langchain  
-unstructured[all-docs]
-pandas
-jupyter
-matplotlib
