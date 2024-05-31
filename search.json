@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sme-agent",
+    "section": "",
+    "text": "This is a prototype for a subject matter surrogate agent for maintenance operations. The agent designed to assist maintenance personnel in answering questions and providing guidance on maintenance tasks as well as be a surrogate agent in a multi-agent system.",
+    "crumbs": [
+      "sme-agent"
+    ]
+  },
+  {
+    "objectID": "index.html#prototyping-subject-matter-surrogate-agent-for-maintenance",
+    "href": "index.html#prototyping-subject-matter-surrogate-agent-for-maintenance",
+    "title": "sme-agent",
+    "section": "",
+    "text": "This is a prototype for a subject matter surrogate agent for maintenance operations. The agent designed to assist maintenance personnel in answering questions and providing guidance on maintenance tasks as well as be a surrogate agent in a multi-agent system.",
+    "crumbs": [
+      "sme-agent"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
